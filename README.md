@@ -1,0 +1,1 @@
+# bulanik_mantik_arac_bakim
