@@ -1,5 +1,5 @@
 # bulanik_mantik_arac_bakim
-Tabii, daha detaylı ve uzun bir README metni hazırlayayım. İşte kapsamlı ve profesyonel bir örnek:
+T
 
 ---
 
