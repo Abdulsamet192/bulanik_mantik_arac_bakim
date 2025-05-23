@@ -48,11 +48,5 @@ Askeri araçların düzenli bakımı operasyonel etkinliği ve güvenliği doğr
 
 Ayrıca, bu sistem farklı araç tiplerine ve bakım kriterlerine kolayca uyarlanabilir, böylece geniş kapsamlı askeri envanter yönetim sistemlerine entegre edilebilir.
 
-## Gelecek Geliştirme İmkanları
-
-* Yapay zeka ve makine öğrenimi entegrasyonu ile bakım önceliklerinin otomatik olarak güncellenmesi.
-* Veritabanı bağlantısı ile araç ve bakım verilerinin merkezi yönetimi.
-* Web tabanlı sürüm ile erişilebilirliğin artırılması.
-* Daha kapsamlı kural setleri ve çoklu çıktı değişkenleri ile bakım kararlarının detaylandırılması.
 
 ---
