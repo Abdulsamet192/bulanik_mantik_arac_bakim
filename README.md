@@ -47,6 +47,8 @@ Bu proje, askeri araçların bakım ve onarım süreçlerinde karar verme mekani
 Askeri araçların düzenli bakımı operasyonel etkinliği ve güvenliği doğrudan etkiler. Bu projede kullanılan bulanık mantık yöntemi, gerçek dünya verilerindeki belirsizlik ve değişkenlikleri göz önünde bulundurarak daha esnek ve doğru bakım önceliklendirmesi yapmayı mümkün kılar. Sonuç olarak, kaynakların daha verimli kullanılması, bakım maliyetlerinin azaltılması ve araçların kullanım dışı kalma sürelerinin minimize edilmesi sağlanır.
 
 Ayrıca, bu sistem farklı araç tiplerine ve bakım kriterlerine kolayca uyarlanabilir, böylece geniş kapsamlı askeri envanter yönetim sistemlerine entegre edilebilir.
+![1](https://github.com/user-attachments/assets/335a3c18-ed7e-4a77-a9cd-0a882d4529c2)
+
 
 
 ---
