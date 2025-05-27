@@ -2,7 +2,9 @@
 
 ---
 
-# Askeri Araçlar için Bulanık Mantık Tabanlı Bakım ve Onarım Önceliklendirme Sistemi
+#ABDUL SAMET ALINMIŞ 21430070046
+Askeri Araçlar için Bulanık Mantık Tabanlı Bakım ve Onarım Önceliklendirme Sistemi
+
 
 ## Proje Hakkında
 
